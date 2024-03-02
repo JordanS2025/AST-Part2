@@ -5,7 +5,7 @@ This repository contains code developed by Jordan Scott, David Smical, and Eli S
 
  Description
 
-The code presented here is aimed at analyzing and processing Abstract Syntax Trees (ASTs) generated from Java code. It involves traversing the AST, identifying different node types, and performing actions based on the identified nodes. Additionally, it includes functionality to access Java documentation for specified packages or classes directly from their URLs.
+The code presented here is aimed at analyzing and processing Abstract Syntax Trees (ASTs) generated from Java code. It involves traversing the AST, identifying different node types, and performing actions based on the identified nodes. Additionally, it includes functionality to access Java documentation for specified packages or classes directly from their URLs. This requires part 1 of the AST code. After parsing it and exporting it to a JSON file, make sure to keep track of the file location. The file path will be used in Part 2 to extract information that is critical.
 
  Usage
 
